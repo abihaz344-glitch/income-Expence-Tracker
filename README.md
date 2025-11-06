@@ -60,7 +60,11 @@ Maven: Build and dependency management
 📝 Data Storage
 All transaction data is stored in JSON format in the data directory for easy backup and portability.
 
+
   RUN > mvn -f "INCOME_EXPENCE_TRACKER-main\Abiha Expens tracker\pom.xml" clean javafx:run
+      oR
+      cd "C:\Users\dell\OneDrive\Desktop\INCOME_EXPENCE_TRACKER\INCOME_EXPENCE_TRACKER-main\Abiha Expens tracker"
+mvn clean javafx:run
    
 👨‍💻 Author
 Created with ❤️ for Abiha
