@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c84597f2-f550-40c2-a17f-6144d9b3fff4",
+    "type": "INCOME",
+    "category": "SALARY",
+    "amount": 10000.0,
+    "description": "Salary",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "52e24bc8-8d04-4808-876d-0921e732d30e",
+    "type": "EXPENSE",
+    "category": "GROCERIES",
+    "amount": 1500.0,
+    "description": "Groceries",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "2e92acfd-830d-4a60-a48a-65c29c061271",
+    "type": "EXPENSE",
+    "category": "RESTAURANT",
+    "amount": 500.0,
+    "description": "Restaurant",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "9b8d44b9-a80f-426d-95b6-a2c7a619129b",
+    "type": "EXPENSE",
+    "category": "ENTERTAINMENT",
+    "amount": 200.0,
+    "description": "Entertainment",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "10e59a8b-d325-4fe1-8b63-4ee6f8f34f8c",
+    "type": "EXPENSE",
+    "category": "TRAVEL",
+    "amount": 100.0,
+    "description": "Travel",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "62584959-7522-448c-a8e1-463535540c20",
+    "type": "EXPENSE",
+    "category": "TRANSPORTATION",
+    "amount": 100.0,
+    "description": "Transportation",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "395c3c0a-158f-4b9b-aff4-1049d466aa26",
+    "type": "EXPENSE",
+    "category": "SUBSCRIPTION",
+    "amount": 199.0,
+    "description": "Subscription",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "eb5191e1-e075-48f6-a2d2-219fc91587d3",
+    "type": "EXPENSE",
+    "category": "COLLEGE_FEES",
+    "amount": 4000.0,
+    "description": "College Fees",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "97e3c1ba-2158-46c2-aeff-c94c178ef1d8",
+    "type": "EXPENSE",
+    "category": "RENT",
+    "amount": 300.0,
+    "description": "Rent",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "699352a0-0ca9-47ba-906a-c05ca76ca037",
+    "type": "EXPENSE",
+    "category": "SHOPPING",
+    "amount": 200.0,
+    "description": "Shopping",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "e6df6eef-6aa1-4363-8848-ed1d66f75a14",
+    "type": "EXPENSE",
+    "category": "HEALTHCARE",
+    "amount": 150.0,
+    "description": "Healthcare",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "174995a2-9270-4a84-8edb-e0e39535d7d9",
+    "type": "EXPENSE",
+    "category": "UTILITIES",
+    "amount": 250.0,
+    "description": "Utilities",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "7274b647-bd6f-42bb-8248-d6144bced447",
+    "type": "INCOME",
+    "category": "SALARY",
+    "amount": 15000.0,
+    "description": "Salary",
+    "date": "2025-11-03"
+  }
+]
